@@ -23,15 +23,15 @@ Sistema de gestión bibliotecario desarrollado en C# con WinForms. Permite:
 5. Explorá las funcionalidades según el rol.
 
 ## Capturas de pantalla
-![Formulario Login](Capturas/captura1.png)
+![Formulario Login](WindowsFormsApp7/Capturas/captura1.png)
 
 *Formulario de inicio de sesión*
 
-![Formulario registro](Capturas/captura2.png)
+![Formulario registro](WindowsFormsApp7/Capturas/captura2.png)
 
 *Formulario de registro de usuarios*
 
-![Pantalla principal](Capturas/captura3.png)
+![Pantalla principal](WindowsFormsApp7/Capturas/captura3.png)
 
 *Pantalla principal del sistema con funcionalidades de búsqueda*
 
