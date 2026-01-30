@@ -1,0 +1,12 @@
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Sistema Bibliotecario.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.login.resources
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Sistema Bibliotecario.csproj.GenerateResource.cache
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\Sistema Bibliotecario.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\derek\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.RegistrarUser.resources
